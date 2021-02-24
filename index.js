@@ -14,3 +14,4 @@ export const url_slug = (word) => {
         }
     }
     return answer.toLowerCase().replace(/[^\w ]+/g,'').replace(/ +/g,'-');
+}
