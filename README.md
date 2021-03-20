@@ -1,7 +1,15 @@
 # arabicSlug
-Arabic text to Latin and URL slug converter.
+arabicSlug is a package that helps to convert Arabic text to user friendly url.
 
 
+
+## Installation
+
+Install the dependencies and run nodeJs.
+```
+$ npm i arabic-slug --save
+
+```
 ## Example usage
 
 >Import `url_slug` function from `arabicSlug` dependecy.
